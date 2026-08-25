@@ -1,1 +1,1 @@
-# DL_models_RNN
+# DL_model_sentiment_analysis_RNN
